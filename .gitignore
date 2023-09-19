@@ -1,0 +1,8 @@
+# cached 
+.vscode
+
+# virtual environment!
+venv
+
+# heavy, processed data
+data\processed
