@@ -4,3 +4,4 @@ matplotlib>=3.8.0
 plotly>=5.17.0
 streamlit>=1.26.0
 seaborn>=0.12.0
+pdflumber >= 0.8.0
