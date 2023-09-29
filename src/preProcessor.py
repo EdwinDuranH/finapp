@@ -10,7 +10,7 @@ def preProcessor(df: pd.DataFrame, filename: Optional[str] = None, meta: Optiona
     Transform the raw data into a tidy format, and save it to a csv file.
     """
     filename = 'balances2022.csv'
-    filename_ids = 'balaces2022_ids.csv'
+    filename_ids = 'balances2022_ids.csv'
 
     df_data = (df
                .rename(lambda c: c.lower().replace('cuenta_', ''), axis=1)
