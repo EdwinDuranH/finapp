@@ -2,7 +2,7 @@
 .vscode
 
 # virtual environment!
-venv
+/venv
 
 # heavy, processed data
-data/processed
+/data/processed
